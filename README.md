@@ -6,11 +6,11 @@ Deep learning papers list for personal archiving purpose
 ### NLP
 - Natural Language Processing (almost) from Scratch (2011) ([arXiv](https://arxiv.org/abs/1103.0398))
 
-## To read
-
 ### Seq2Seq
 - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation ([arXiv](https://arxiv.org/abs/1406.1078))
 - Sequence to Sequence Learning with Neural Networks ([arXiv](https://arxiv.org/abs/1409.3215))
+
+## To read
 
 ### Context
 - Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models ([arXiv](https://arxiv.org/abs/1507.04808))
