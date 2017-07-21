@@ -4,32 +4,35 @@ Deep learning papers list for personal archiving purpose
 ## Done
 
 ### NLP
-- Natural Language Processing (almost) from Scratch (2011) ([arXiv](https://arxiv.org/abs/1103.0398))
+- Natural Language Processing (almost) from Scratch (2011) [[arXiv](https://arxiv.org/abs/1103.0398)]
 
 ### Seq2Seq
-- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (2014) ([arXiv](https://arxiv.org/abs/1406.1078))
-- Sequence to Sequence Learning with Neural Networks (2014) ([arXiv](https://arxiv.org/abs/1409.3215))
+- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (2014) [[arXiv](https://arxiv.org/abs/1406.1078)]
+- Sequence to Sequence Learning with Neural Networks (2014) [[arXiv](https://arxiv.org/abs/1409.3215)]
 
 ## To read
 
+### Conversation model
+- Generating Long and Diverse Responses with Neural Conversation Models (2017) [[arXiv](https://arxiv.org/abs/1701.03185)]
+
 ### Context
-- Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models ([arXiv](https://arxiv.org/abs/1507.04808))
-- Attention with Intention for a Neural Network Conversation Model ([arXiv](https://arxiv.org/abs/1510.08565))
-- End-To-End Memory Networks ([arXiv](https://arxiv.org/abs/1503.08895))
+- Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (2015) [[arXiv](https://arxiv.org/abs/1507.04808)]
+- Attention with Intention for a Neural Network Conversation Model (2015) [[arXiv](https://arxiv.org/abs/1510.08565)]
+- End-To-End Memory Networks (2015) [[arXiv](https://arxiv.org/abs/1503.08895)]
 
 ### Personality
-- A Persona-Based Neural Conversation Model ([arXiv](https://arxiv.org/abs/1603.06155))
+- A Persona-Based Neural Conversation Model (2016) [[arXiv](https://arxiv.org/abs/1603.06155)]
 
 ### Reasoning
-- A simple neural network module for relational reasoning ([arXiv](https://arxiv.org/abs/1706.01427))  
+- A simple neural network module for relational reasoning (2017) [[arXiv](https://arxiv.org/abs/1706.01427)]  
 
 ### NLP with CNN
-- Convolutional Neural Networks for Sentence Classification ([arXiv](https://arxiv.org/abs/1408.5882))
-- Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts ([aclweb](http://www.aclweb.org/anthology/C14-1008))
-- Convolutional Sequence to Sequence Learning ([arXiv](https://arxiv.org/abs/1705.03122))
+- Convolutional Neural Networks for Sentence Classification (2014) [[arXiv](https://arxiv.org/abs/1408.5882)]
+- Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts (2014) [[aclweb](http://www.aclweb.org/anthology/C14-1008)]
+- Convolutional Sequence to Sequence Learning (2017) [[arXiv](https://arxiv.org/abs/1705.03122)]
 
 ### One shot learning
-- Matching Networks for One Shot Learning ([arXiv](https://arxiv.org/abs/1606.04080))
+- Matching Networks for One Shot Learning (2016) [[arXiv](https://arxiv.org/abs/1606.04080)]
 
 
 ## References  
