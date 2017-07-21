@@ -7,8 +7,8 @@ Deep learning papers list for personal archiving purpose
 - Natural Language Processing (almost) from Scratch (2011) ([arXiv](https://arxiv.org/abs/1103.0398))
 
 ### Seq2Seq
-- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation ([arXiv](https://arxiv.org/abs/1406.1078))
-- Sequence to Sequence Learning with Neural Networks ([arXiv](https://arxiv.org/abs/1409.3215))
+- Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (2014) ([arXiv](https://arxiv.org/abs/1406.1078))
+- Sequence to Sequence Learning with Neural Networks (2014) ([arXiv](https://arxiv.org/abs/1409.3215))
 
 ## To read
 
