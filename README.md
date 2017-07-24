@@ -35,6 +35,9 @@ Deep learning papers list for personal archiving purpose
 ### One shot learning
 - Matching Networks for One Shot Learning (2016) [[arXiv](https://arxiv.org/abs/1606.04080)]
 
+### A lot of papers related to conversation with DL
+- https://web.stanford.edu/~jiweil/Publications_ByYear.html
+
 
 ## References  
 - https://github.com/dennybritz/deeplearning-papernotes
