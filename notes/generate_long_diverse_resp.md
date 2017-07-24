@@ -15,3 +15,8 @@
 - But when the responses are short, standard beam search generated better resposes.
 - So they used both - when the response of suggested model is shorter than 40 characters, they used baseline model.
 - Combined model made better result, and human raters alse preferred combined model than baseline model, 103 to 77.
+
+
+# Thoughts
+
+- adding attention to RNN gives coherency? It seems, according to [this paper](https://arxiv.org/abs/1611.06997).
