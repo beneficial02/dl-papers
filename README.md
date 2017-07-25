@@ -13,6 +13,9 @@ Deep learning papers list for personal archiving purpose
 - Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (2014) [[arXiv](https://arxiv.org/abs/1406.1078)] [[note](/notes/seq2seq.md)]
 - Sequence to Sequence Learning with Neural Networks (2014) [[arXiv](https://arxiv.org/abs/1409.3215)] [[note](/notes/seq2seq.md)]
 
+### Personality
+- A Persona-Based Neural Conversation Model (2016) [[arXiv](https://arxiv.org/abs/1603.06155)] [[note](/notes/persona_based_conv_model.md)]
+
 
 ## To read
 
@@ -20,9 +23,6 @@ Deep learning papers list for personal archiving purpose
 - Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (2015) [[arXiv](https://arxiv.org/abs/1507.04808)]
 - Attention with Intention for a Neural Network Conversation Model (2015) [[arXiv](https://arxiv.org/abs/1510.08565)]
 - End-To-End Memory Networks (2015) [[arXiv](https://arxiv.org/abs/1503.08895)]
-
-### Personality
-- A Persona-Based Neural Conversation Model (2016) [[arXiv](https://arxiv.org/abs/1603.06155)]
 
 ### Reasoning
 - A simple neural network module for relational reasoning (2017) [[arXiv](https://arxiv.org/abs/1706.01427)]  
