@@ -29,6 +29,7 @@ Deep learning papers list for personal archiving purpose
 - Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (2015) [[arXiv](https://arxiv.org/abs/1507.04808)]
 - Attention with Intention for a Neural Network Conversation Model (2015) [[arXiv](https://arxiv.org/abs/1510.08565)]
 - End-To-End Memory Networks (2015) [[arXiv](https://arxiv.org/abs/1503.08895)]
+- Neural Net Models of Open-domain Discourse Coherence (2017) [[arXiv](https://arxiv.org/abs/1606.01545)]
 
 ### Reasoning
 - A simple neural network module for relational reasoning (2017) [[arXiv](https://arxiv.org/abs/1706.01427)]  
