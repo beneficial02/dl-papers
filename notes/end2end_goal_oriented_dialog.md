@@ -1,6 +1,6 @@
 # Paper
 
-- Learning End-To-End Goal-Oriented Dialog (2017)
+- Learning End-To-End Goal-oriented Dialog (2017)
 
 
 # Note
