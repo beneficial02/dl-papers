@@ -22,6 +22,9 @@ Deep learning papers list for personal archiving purpose
 ### Personality
 - A Persona-Based Neural Conversation Model (2016) [[arXiv](https://arxiv.org/abs/1603.06155)] [[note](/notes/persona_based_conv_model.md)]
 
+### Goal-oriented dialog
+- Learning End-To-End Goal-oriented Dialog (2017) [[pdf](https://openreview.net/pdf?id=S1Bb3D5gg)] [[note](/notes/end2end_goal_oriented_dialog.md)]
+
 
 ## To read
 
